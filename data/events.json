@@ -1,0 +1,37 @@
+[
+  {
+    "id": "event-1",
+    "title": "Global Brotherhood Program-1st Cohort",
+    "date": "2026-06-08",
+    "description": "A pioneering mentorship and personal development journey bringing together young men from diverse backgrounds to build character, leadership, accountability, and lifelong brotherhood.",
+    "images":["/assets/images/event-04.jpeg",
+             "/assets/images/event-02.jpeg",
+              "/assets/images/event-03.jpeg",
+              "/assets/images/event-05.jpeg",
+              "/assets/images/event-06.jpeg",
+              "/assets/images/event-07.jpeg",
+              "/assets/images/event-08.jpeg",
+              "/assets/images/event-09.jpeg",
+              "/assets/images/event-10.jpeg"
+            ]
+  },
+  {
+    "id": "event-2",
+    "title": "Check On Your Bro Campaign",
+    "date": "2026-03-15",
+    "description": "A community-driven initiative encouraging men to reach out, listen, and support one another, fostering meaningful connections and promoting mental and emotional wellbeing.",
+    "images":["/assets/images/event-01.jpeg",
+              "/assets/images/event-11.jpeg"
+            ]
+  },
+  {
+    "id": "event-3",
+    "title": "Weekend Reflection Workshop",
+    "date": "2026-02-05",
+    "description": "An interactive workshop focused on self-awareness, personal growth, and emotional wellness through guided discussions, reflection exercises, and practical life tools.",
+    "images":["/assets/images/gallery-06.png",
+              "/assets/images/gallery-01.jpeg",
+              "/assets/images/gallery-05.jpeg"
+            ]
+  }
+]
